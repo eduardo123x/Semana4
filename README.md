@@ -8,27 +8,27 @@ Leer Urgente:
 Coordenadas sugeridas:
 Primera Coordenada.-
 [
-     2.3818755
+     2.3818755 ;
     -16.551962
 ]
 
 Segunda Coordenada
 [
-        47.580235
+        47.580235;
         -17.811457
 ]
 Tercera Coordenada:      
 [
-        50.306206
+        50.306206;
         -30.069094
 ]
 Cuarta Coordenada
 [
-        -7.3788595
+        -7.3788595;
         -28.690588
 ]
 Quinta Coordenada
 [
-        2.1973095
+        2.1973095;
         -16.636192
 ]
