@@ -6,7 +6,7 @@ Desarrollar un algoritmo que solicite al usuario el ingreso de coordenadas, alma
 Leer Urgente:
 
 Coordenadas sugeridas:
-Primera Coordenada.-
+Primera Coordenada:
 [
      2.3818755 ;
     -16.551962
